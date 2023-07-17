@@ -29,4 +29,4 @@ The projects are divided into ranks with increasing difficulty for each rank. Us
 
 |Project|Description|
 |-------|-----------|
-|[**minishell**]|A basic shell with limited functionality based on bash. Pipes, environment variables, redirections, some builtins. This is also the first group project, done with [bantunesfranco](https://github.com/bantunesfranco)|
+|[**minishell**](https://github.com/bantunesfranco/minishell)|A basic shell with limited functionality based on bash. Pipes, environment variables, redirections, some builtins. This is also the first group project, done with [bantunesfranco](https://github.com/bantunesfranco)|
