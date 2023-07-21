@@ -3,6 +3,12 @@
 The 42 curriculum is divided into projects, each of which deals with a new concept that you have to learn.  
 The projects are divided into ranks with increasing difficulty for each rank. Usually they also contain bonus objectives for an extra challenge.  
 
+## Codam library
+
+|Project|Description|
+|-------|-----------|
+|[**Codam_libft**](https://github.com/jmolenaa/Codam_libft)|This repository contains a library I use for my Codam projects. It contains the functions made in the first three projects plus several other functions added throughout the curriculum.|
+
 ## Rank 0
 
 |Project|Description|
