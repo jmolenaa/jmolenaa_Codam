@@ -19,7 +19,7 @@ The projects are divided into ranks with increasing difficulty for each rank. Us
 
 |Project|Description|
 |-------|-----------|
-|[**ft_printf**](https://github.com/jmolenaa/ft_printf)|Recreate the printf function with less features. Indroduces you to variadic functions.|
+|[**ft_printf**](https://github.com/jmolenaa/ft_printf)|Recreate the printf function with less features. Introduces you to variadic functions.|
 |[**get_next_line**](https://github.com/jmolenaa/get_next_line)|Write a function that returns a line form the given file descriptor. Multiple calls allow for reading through the entire file.|
 
 ## Rank 2
@@ -36,3 +36,4 @@ The projects are divided into ranks with increasing difficulty for each rank. Us
 |Project|Description|
 |-------|-----------|
 |[**minishell**](https://github.com/bantunesfranco/minishell)|A basic shell with limited functionality based on bash. Pipes, environment variables, redirections, some builtins. This is also the first group project, done with [bantunesfranco](https://github.com/bantunesfranco)|
+|[**Philosophers**](https://github.com/jmolenaa/Philosophers)|A program simulating the Dining Philosophers problem. Introduces you to using threads in C.|
