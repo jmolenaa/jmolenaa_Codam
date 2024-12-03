@@ -37,3 +37,17 @@ The projects are divided into ranks with increasing difficulty for each rank. Us
 |-------|-----------|
 |[**minishell**](https://github.com/bantunesfranco/minishell)|A basic shell with limited functionality based on bash. Pipes, environment variables, redirections, some builtins. This is also the first group project, done with [bantunesfranco](https://github.com/bantunesfranco)|
 |[**Philosophers**](https://github.com/jmolenaa/Philosophers)|A program simulating the Dining Philosophers problem. Introduces you to using threads in C.|
+
+## Rank 4
+
+|Project|Description|
+|-------|-----------|
+|[**cub3d**](https://github.com/tknibbe/cub3d)|Graphical project about making a raycaster engine, similar to Wolfenstein. Done with [tknibbe](https://github.com/tknibbe)|
+|[**CPP Modules**](https://github.com/jmolenaa/CPP_Modules)|A collection of shorter exercises introducing you to C++ and to Object Oriented Programming.|
+
+## Rank 5
+
+|Project|Description|
+|-------|-----------|
+|[**webserv**](https://github.com/jmolenaa/webserv)|A basic webserver build in C++. Based on nginx with basic functionality. Done with [Jelligeth](https://github.com/Jelligeth) and [yixin1230](https://github.com/yixin1230))|
+|[**inception**](https://github.com/jmolenaa/inception)|A project introducing docker containers. The goal is to create a LEMP stack with separate containers for nginx, Wordpress and MariaDB|
