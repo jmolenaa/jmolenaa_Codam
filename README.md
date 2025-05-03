@@ -49,5 +49,21 @@ The projects are divided into ranks with increasing difficulty for each rank. Us
 
 |Project|Description|Languages/technologies|
 |-------|-----------|-------|
-|[**webserv**](https://github.com/jmolenaa/webserv)|A basic webserver build in C++. Based on nginx with basic functionality. Done with [Jelligeth](https://github.com/Jelligeth) and [yixin1230](https://github.com/yixin1230))|C++|
+|[**webserv**](https://github.com/jmolenaa/webserv)|A basic webserver build in C++. Based on nginx with basic functionality. Done with [Jelligeth](https://github.com/Jelligeth) and [yixin1230](https://github.com/yixin1230)|C++|
 |[**inception**](https://github.com/jmolenaa/inception)|A project introducing docker containers. The goal is to create a LEMP stack with separate containers for nginx, Wordpress and MariaDB|Docker, bash|
+
+## Rank 6
+
+|Project|Description|Languages/technologies|
+|-------|-----------|-------|
+|[**ft_transcendence**](https://github.com/akrepkov/transcendence)|WORK IN PROGRESS. A website on which you can play pong. Will support account creation, match history, tournaments and the game itself.|HTML, CSS, Javascript, Typescript|
+
+# Advent of code
+
+Advent of code is a coding challenge happening once a year in December. The goal is to solve a programming puzzle in a language of your choice every day for 25 days.
+
+|Year|Language|
+|------|-------|
+|[2022](https://github.com/jmolenaa/AOC2022)|C|
+|[2023](https://github.com/jmolenaa/AOC2023)|Python|
+|[2024](https://github.com/jmolenaa/AOC2024)|Python|
